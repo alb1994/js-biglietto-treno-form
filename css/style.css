@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.blue{
+    background-color: blue;
+}
+.black{
+    background-color: black;
+}
+input{
+    width: 100%;
+}
+.white{
+    color: white;
+}
+button{
+    padding: 5px;
+}
+.inblock{
+    display: inline;
+}
